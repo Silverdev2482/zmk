@@ -55,7 +55,7 @@ Please see the [explainer on boards & shields](development/hardware-integration/
 
 ### Does ZMK support wired split?
 
-Currently, ZMK only supports wireless split, but wired split is possible and we welcome contributions!
+Currently, wired split is under development and should be considered experimental.
 
 ### How is the latency?
 
